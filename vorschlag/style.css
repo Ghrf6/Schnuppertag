@@ -1,0 +1,55 @@
+button {
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+body {
+  background-color: rgb(237, 233, 231);
+  margin-left: 30%;
+  margin-top: 2%;
+}
+
+img{
+  position: absolute;
+  left: 60%;
+  top: 5%;
+  height: 25%;
+}
+
+.gray {
+  color: gray;
+}
+
+h1{
+  margin-bottom: 8%;
+}
+
+h3{
+  margin-top: 2%;
+  border-bottom: 1px solid black;
+  width: 250px;
+}
+
+.container {
+  width: 50%;
+  float: left;
+}
+
+#container_left {
+  width: 30%;
+}
+
+#container_right {
+  margin-top: 16%;
+  width: 40%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+h3 {
+  margin-top: 10;
+}
+
+
+
