@@ -1,0 +1,36 @@
+nav a:hover {
+  background-color: #3b4443;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+
+body {
+  background-color: rgb(221, 72, 72);
+}
+
+#logo {
+  margin-right: 25%;
+}
+
+#dark {
+  background-color: #021613;
+}
+
+#stats {
+    color:  rgb(245, 11, 11);
+}
+
+#current{
+    color: red;
+}
+
+.container-md{
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 3%;
+}
