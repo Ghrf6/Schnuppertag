@@ -1,25 +1,25 @@
 {
-    "Maps": [
-        {
-            "Name": "Bind",
-            "Win%": 56.2,
-            "AVG K/D": 1.12,
-            "wins": 123,
-            "losses": 96
-        },
-        {
-            "Name": "Haven",
-            "Win%": 62.1,
-            "AVG K/D": 1.32,
-            "wins": 98,
-            "losses": 59
-        },
-        {
-            "Name": "Split",
-            "Win%": 43.1,
-            "AVG K/D": 0.98,
-            "wins": 67,
-            "losses": 88
-        }
-    ]
+  "Maps": [
+    {
+      "Name": "Bind",
+      "Win%": 56.2,
+      "AVG K/D": 1.12,
+      "wins": 123,
+      "losses": 96
+    },
+    {
+      "Name": "Haven",
+      "Win%": 62.1,
+      "AVG K/D": 1.32,
+      "wins": 98,
+      "losses": 59
+    },
+    {
+      "Name": "Split",
+      "Win%": 43.1,
+      "AVG K/D": 0.98,
+      "wins": 67,
+      "losses": 88
+    }
+  ]
 }

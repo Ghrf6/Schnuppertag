@@ -1,39 +1,39 @@
 {
-    "Spieler": [
-        {
-            "Name": "Neo",
-            "Rolle": "Smoker",
-            "HS%": 27.6,
-            "Win%": 57.8,
-            "K/D": 0.96
-        },
-        {
-            "Name": "Igor",
-            "Rolle": "controler",
-            "HS%": 21.3,
-            "Win%": 48.9,
-            "K/D": 0.87
-        },
-        {
-            "Name": "Pascal",
-            "Rolle": "Duelist",
-            "HS%": 32.1,
-            "Win%": 73.4,
-            "K/D": 1.53
-        },
-        {
-            "Name": "Lars",
-            "Rolle": "Initiator",
-            "HS%": 19.8,
-            "Win%": 51.2,
-            "K/D": 1.07
-        },
-        {
-            "Name": "Leo",
-            "Rolle": "Initiator",
-            "HS%": 30.4,
-            "Win%": 68.6,
-            "K/D": 1.31
-        }
-    ]
+  "Spieler": [
+    {
+      "Name": "Neo",
+      "Rolle": "Smoker",
+      "HS%": 27.6,
+      "Win%": 57.8,
+      "K/D": 0.96
+    },
+    {
+      "Name": "Igor",
+      "Rolle": "controler",
+      "HS%": 21.3,
+      "Win%": 48.9,
+      "K/D": 0.87
+    },
+    {
+      "Name": "Pascal",
+      "Rolle": "Duelist",
+      "HS%": 32.1,
+      "Win%": 73.4,
+      "K/D": 1.53
+    },
+    {
+      "Name": "Lars",
+      "Rolle": "Initiator",
+      "HS%": 19.8,
+      "Win%": 51.2,
+      "K/D": 1.07
+    },
+    {
+      "Name": "Leo",
+      "Rolle": "Initiator",
+      "HS%": 30.4,
+      "Win%": 68.6,
+      "K/D": 1.31
+    }
+  ]
 }

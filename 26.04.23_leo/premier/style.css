@@ -7,83 +7,79 @@ nav a:hover {
 }
 
 body {
-  background-image: url('img/back.png');
+  background-image: url("img/back.png");
 }
-
 
 #dark {
   background-color: #021613;
 }
 
 #stats {
-    color:  rgb(243, 32, 32);
+  color: rgb(243, 32, 32);
 }
 
-#current{
-    color: red;
+#current {
+  color: red;
 }
 
-.container-md{
-    width: 200px;
-    margin-top: 2%;
-    margin-left: 5%;
+.container-md {
+  width: 200px;
+  margin-top: 2%;
+  margin-left: 5%;
 }
 
-
-
-#table1{
+#table1 {
   margin-top: 12%;
   color: aliceblue;
-  }
+}
 
-#table2{
-  width: 35%; 
+#table2 {
+  width: 35%;
   margin-top: 15%;
   color: aliceblue;
 }
 
-.position-relative{
+.position-relative {
   margin-left: 20%;
-    color: aliceblue;
+  color: aliceblue;
 }
 
-#figcaption{
+#figcaption {
   margin-left: 30%;
   color: aliceblue;
 }
 
-#figcaption2{
+#figcaption2 {
   margin-left: 30%;
   color: aliceblue;
 }
 
-#figcaption3{
+#figcaption3 {
   margin-left: 30%;
   color: aliceblue;
 }
 
-
-#pictures{
+#pictures {
   margin-left: 30%;
   color: aliceblue;
 }
 
-#home{
+#home {
   margin-top: 10%;
 }
 
-#gun{
+#gun {
   width: 70%;
   margin-top: 40%;
 }
 
-.nav-item{
+.nav-item {
   margin-right: 15%;
-  font-size:larger ;
+  font-size: larger;
   color: aliceblue;
 }
 
-#navbarNav{
+#navbarNav {
   margin-right: 18%;
 }
 
@@ -94,9 +90,6 @@ body {
   outline: none;
 }
 
-#bigger{
+#bigger {
   width: 150%;
 }
-
-
-

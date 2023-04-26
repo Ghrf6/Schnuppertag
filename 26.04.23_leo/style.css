@@ -9,25 +9,25 @@ body {
   margin-top: 1%;
 }
 
-.Amasis{
-  font-family: 'Times New Roman', Times, serif;
+.Amasis {
+  font-family: "Times New Roman", Times, serif;
 }
 
-img{
+img {
   right: 2%;
   top: 1%;
   height: 500px;
   position: absolute;
 }
 
-h1{
+h1 {
   margin-bottom: 3%;
 }
 
-.helvetica{
-  font-family:Helvetica;
+.helvetica {
+  font-family: Helvetica;
 }
-.grey{
+.grey {
   color: gray;
 }
 

@@ -1,7 +1,7 @@
 {
   "Weapons": [
-    { "Name": "Weapon Vandal", "HS%": " HS% 30", "K/D":"K/D 1.4"  },
-    { "Name": "Weapon Ghost", "HS%": " HS% 41", "K/D":"K/D 0.8" },
-    { "Name": "Weapon Phantom", "HS%": " HS% 23", "K/D": "K/D 1.2"}
+    { "Name": "Weapon Vandal", "HS%": " HS% 30", "K/D": "K/D 1.4" },
+    { "Name": "Weapon Ghost", "HS%": " HS% 41", "K/D": "K/D 0.8" },
+    { "Name": "Weapon Phantom", "HS%": " HS% 23", "K/D": "K/D 1.2" }
   ]
 }
