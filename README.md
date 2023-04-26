@@ -1,2 +1,2 @@
 # Schnuppertag 
-![alt text](image.jpg)
+![Swica Logo](Dokumente/swica.png)
