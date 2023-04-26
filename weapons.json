@@ -1,0 +1,7 @@
+{
+  "Weapons": [
+    { "Name": "Vandal", "HS%": 30, "K/D": 1.4 },
+    { "Name": "Ghost", "HS%": 41, "K/D": 0.9 },
+    { "Name": "Phantom", "HS%": 23, "K/D": 1.3 }
+  ]
+}
