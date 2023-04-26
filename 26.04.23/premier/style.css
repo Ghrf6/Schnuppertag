@@ -3,18 +3,15 @@ nav a:hover {
 }
 
 .navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: 2rem;
 }
 
 body {
-  background-color: rgb(221, 72, 72);
+  background-image: url('img/back.png');
 }
 
 #logo {
-  margin-right: 25%;
+  margin-right: 28%;
 }
 
 #dark {
@@ -22,7 +19,7 @@ body {
 }
 
 #stats {
-    color:  rgb(245, 11, 11);
+    color:  rgb(243, 32, 32);
 }
 
 #current{
@@ -38,37 +35,42 @@ body {
 
 
 #table1{
-margin-left: 23%;
-margin-top: 10%;
+margin-left: 25%;
+margin-top: 12%;
+color: aliceblue;
 }
-
-
 
 #table2{
   width: 35%; 
-  margin-top: 11%;
-  margin-left: 21%;
+  margin-top: 15%;
+  margin-left: 25%;
+  color: aliceblue;
 }
 
 .position-relative{
   margin-left: 20%;
+    color: aliceblue;
 }
 
 #figcaption{
   margin-left: 30%;
+  color: aliceblue;
 }
 
 #figcaption2{
   margin-left: 30%;
+  color: aliceblue;
 }
 
 #figcaption3{
   margin-left: 30%;
+  color: aliceblue;
 }
 
 
 #pictures{
   margin-left: 30%;
+  color: aliceblue;
 }
 
 #home{
@@ -79,3 +81,10 @@ margin-top: 10%;
   width: 70%;
   margin-top: 40%;
 }
+
+.nav-item{
+  margin-right: 15%;
+  font-size:larger ;
+  color: aliceblue;
+}
+
