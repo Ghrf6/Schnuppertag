@@ -32,9 +32,9 @@ body {
 
 
 #table1{
-margin-top: 12%;
-color: aliceblue;
-}
+  margin-top: 12%;
+  color: aliceblue;
+  }
 
 #table2{
   width: 35%; 
@@ -86,3 +86,17 @@ color: aliceblue;
 #navbarNav{
   margin-right: 18%;
 }
+
+#transparent-input {
+  background-color: transparent;
+  border: none;
+  color: aliceblue;
+  outline: none;
+}
+
+#bigger{
+  width: 150%;
+}
+
+
+
