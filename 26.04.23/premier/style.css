@@ -32,5 +32,47 @@ body {
 .container-md{
     width: 200px;
     margin-top: 2%;
-    margin-left: 3%;
+    margin-left: 5%;
 }
+
+
+
+#table1{
+  width: 25%; 
+  margin-top: 11%;
+  margin-left: 36%;
+  font-size: ;
+}
+
+
+
+#table2{
+  width: 35%; 
+  margin-top: 11%;
+  margin-left: 27%;
+  font-size: xx-large;
+}
+
+#span1{
+  margin-top: 8cm;
+  position: absolute;
+  width: 2cm;
+}
+
+#span2{
+  margin-top: 8cm;
+  position: absolute;
+  width: 2cm;
+}
+
+#span3{
+  margin-top: 8cm;
+  position: absolute;
+  width: 2cm;
+}
+
+#gun {
+  margin-left: 15%;
+  margin-top: 9%;
+}
+
