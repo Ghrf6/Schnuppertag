@@ -10,9 +10,6 @@ body {
   background-image: url('img/back.png');
 }
 
-#logo {
-  margin-right: 28%;
-}
 
 #dark {
   background-color: #021613;
@@ -35,7 +32,6 @@ body {
 
 
 #table1{
-margin-left: 25%;
 margin-top: 12%;
 color: aliceblue;
 }
@@ -43,7 +39,6 @@ color: aliceblue;
 #table2{
   width: 35%; 
   margin-top: 15%;
-  margin-left: 25%;
   color: aliceblue;
 }
 
@@ -88,3 +83,6 @@ color: aliceblue;
   color: aliceblue;
 }
 
+#navbarNav{
+  margin-right: 18%;
+}
